@@ -1,0 +1,16 @@
+com.yodlee.notify.config
+com.yodlee.notify.constants
+com.yodlee.notify.datasourcehandler
+com.yodlee.notify.datasourceparsers
+com.yodlee.notify.entities.notify
+com.yodlee.notify.entities.transaction
+com.yodlee.notify.errorhandler
+com.yodlee.notify.jms
+com.yodlee.notify.kafka
+com.yodlee.notify.notifyengine
+com.yodlee.notify.repositories
+com.yodlee.notify.rulesengine
+com.yodlee.notify.rulesengine.domainmodel.expensesummary
+com.yodlee.notify.rulesengine.domainmodel.transactions
+com.yodlee.notify.util
+generated
